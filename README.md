@@ -12,8 +12,8 @@ Using monthly sales data, we train a time series forecasting model and visualize
 ---
 
 ## 📂 Dataset
-
-The dataset used is [`https://github.com/sinaaa-aaam/FUTURE_ML_01/Task 1/sales_data_sample.csv`](sales_data_sample.csv), which includes:
+https://github.com/sinaaa-aaam/FUTURE_ML_01/Task 1/sales_data_sample.csv
+The dataset used is [`sales_data_sample.csv`](https://github.com/sinaaa-aaam/FUTURE_ML_01/Task 1/sales_data_sample.csv), which includes:
 - Sales transactions
 - Order dates
 - Product and customer information
